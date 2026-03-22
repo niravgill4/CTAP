@@ -1,0 +1,10 @@
+TRIAL: Wegovy Semaglutide STEP-1 (NCT03548935)
+DOCUMENT: Informed Consent Form (ICF) excerpt
+
+RISKS VS BENEFITS BASELINE:
+Benefit to Patient: Potential for significant weight loss (averaging 15% body weight reduction over 68 weeks) and reduction in cardiovascular compounding risks. Patients enrolling are doing so strictly to combat obesity or overweight conditions with comorbidities.
+Risk to Patient: Patients are informed of the high probability of gastrointestinal distress (nausea, vomiting).
+Black Box Warning Concept: Patients are warned about the potential risk of Medullary Thyroid Carcinoma (MTC), derived from rodent studies, prior to signing.
+
+MOTIVATION ENGINE BINDING:
+Patient baseline motivation to remain in the trial begins HIGH due to the desirability of the weight-loss effect. However, the willingness to tolerate severe nausea and weekly injections will decay motivation if weight loss metrics (simulated internally) do not appear quickly enough, or if the logistical burden of the monthly clinic visits overtakes the perceived benefit.

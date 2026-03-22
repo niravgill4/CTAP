@@ -1,0 +1,86 @@
+TRIAL NAME: Pfizer BioNTech COVID Vaccine
+NCT ID: NCT04368728
+CONDITIONS: SARS-CoV-2 Infection, COVID-19
+
+--- BRIEF SUMMARY ---
+This is a Phase 1/2/3, randomized, placebo-controlled, observer-blind, dose-finding, vaccine candidate-selection, and efficacy study in healthy individuals.
+
+The study consists of 2 parts: Phase 1: to identify preferred vaccine candidate(s) and dose level(s); Phase 2/3: an expanded cohort and efficacy part.
+
+The study will evaluate the safety, tolerability, and immunogenicity of 3 different SARS-CoV-2 RNA vaccine candidates against COVID-19 and the efficacy of 1 candidate:
+
+* As a 2-dose (separated by 21 days) schedule;
+* At various different dose levels in Phase 1;
+* As a booster;
+* In 3 age groups (Phase 1: 18 to 55 years of age, 65 to 85 years of age; Phase 2/3: ≥12 years of age \[stratified as 12-15, 16-55 or \>55 years of age\]).
+
+The candidate selected for efficacy evaluation in Phase 2/3 is BNT162b2 at a dose of 30 µg.
+
+Participants who originally received placebo will be offered the opportunity to receive BNT162b2 at defined points as part of the study.
+
+In order to describe the boostability of BNT162, and potential heterologous protection against emerging SARS-CoV-2 VOCs, an additional dose of BNT162b2 at 30 µg will be given to Phase 1 participants approximately 6 to 12 months after their second dose of BNT162b1 or BNT162b2. This will provide an early assessment of the safety of a third dose of BNT162, as well as its immunogenicity.
+
+The assessment of boostability will be further expanded in a subset of Phase 3 participants at selected sites in the US who will receive a third dose of BNT162b2 at 30 µg or a third and potentially a fourth dose of prototype BNT162b2VOC at 30 µg (BNT162b2s01, based upon the South African variant and hereafter referred to as BNT162b2SA). A further subset of Phase 3 participants will receive a third, lower, dose of BNT162b2 at 5 or 10 µg.
+
+To further describe potential homologous and heterologous protection against emerging SARS-CoV-2 VOCs, a new cohort of participants will be enrolled who are COVID-19 vaccine-naïve (ie, BNT162b2-naïve) and have not experienced COVID-19. They will receive BNT162b2SA given as a 2-dose series, separated by 21 days.
+
+To reflect current and anticipated recommendations for COVID 19 vaccine boosters, participants in C4591001 who meet specified recommendations and have not already received one, will be offered a third dose of BNT162b2 after their second dose of BNT162.
+
+--- DETAILED DESCRIPTION ---
+
+
+--- ELIGIBILITY CRITERIA ---
+Inclusion Criteria:
+
+• Male or female participants between the ages of 18 and 55 years, inclusive, 65 and 85 years, inclusive, or ≥12 years, inclusive, at randomization (dependent upon study phase). For the boostability and protection-against-VOCs subset: Existing participants enrolled to receive a third dose of BNT162b2 at 30 µg or BNT162b2SA; male or female participants between the ages of 18 and 55 years, inclusive, at rerandomization.
+
+Newly enrolled participants enrolled to receive 2 doses of BNT162b2SA; male or female participants between the ages of 18 and 55 years, inclusive, at enrollment.
+
+Existing participants enrolled to receive a third dose of BNT162b2 at 5 or 10 µg; male or female participants ≥18 years at rerandomization.
+
+Note that participants \<18 years of age cannot be enrolled in the EU.
+
+* Participants who are willing and able to comply with all scheduled visits, vaccination plan, laboratory tests, lifestyle considerations, and other study procedures.
+* Healthy participants who are determined by medical history, physical examination, and clinical judgment of the investigator to be eligible for inclusion in the study.
+* Participants who, in the judgment of the investigator, are at risk for acquiring COVID-19.
+* Boostability and protection-against-VOCs existing participant subset only: Participants who provided a serum sample at Visit 3, with Visit 3 occurring within the protocol-specified window.
+* Capable of giving personal signed informed consent
+
+Exclusion Criteria:
+
+* Other medical or psychiatric condition including recent (within the past year) or active suicidal ideation/behavior or laboratory abnormality that may increase the risk of study participation or, in the investigator's judgment, make the participant inappropriate for the study.
+* Phases 1 and 2 only: Known infection with human immunodeficiency virus (HIV), hepatitis C virus (HCV), or hepatitis B virus (HBV).
+* History of severe adverse reaction associated with a vaccine and/or severe allergic reaction (eg, anaphylaxis) to any component of the study intervention(s).
+* Receipt of medications intended to prevent COVID 19.
+* Previous clinical (based on COVID-19 symptoms/signs alone, if a SARS-CoV-2 NAAT result was not available) or microbiological (based on COVID-19 symptoms/signs and a positive SARS-CoV-2 NAAT result) diagnosis of COVID 19
+* Phase 1 only: Individuals at high risk for severe COVID-19, including those with any of the following risk factors:
+
+  * Hypertension
+  * Diabetes mellitus
+  * Chronic pulmonary disease
+  * Asthma
+  * Current vaping or smoking
+  * History of chronic smoking within the prior year
+  * BMI \>30 kg/m2
+  * Anticipating the need for immunosuppressive treatment within the next 6 months
+* Phase 1 only: Individuals currently working in occupations with high risk of exposure to SARS-CoV-2 (eg, healthcare worker, emergency response personnel).
+* Immunocompromised individuals with known or suspected immunodeficiency, as determined by history and/or laboratory/physical examination.
+* Phase 1 only: Individuals with a history of autoimmune disease or an active autoimmune disease requiring therapeutic intervention.
+* Bleeding diathesis or condition associated with prolonged bleeding that would, in the opinion of the investigator, contraindicate intramuscular injection.
+* Women who are pregnant or breastfeeding.
+* Previous vaccination with any coronavirus vaccine.
+* Individuals who receive treatment with immunosuppressive therapy, including cytotoxic agents or systemic corticosteroids, eg, for cancer or an autoimmune disease, or planned receipt throughout the study.
+* Phase 1 only: Regular receipt of inhaled/nebulized corticosteroids.
+* Receipt of blood/plasma products or immunoglobulin, from 60 days before study intervention administration or planned receipt throughout the study.
+* Participation in other studies involving study intervention within 28 days prior to study entry through and including 6 months after the last dose of study intervention, with the exception of non-Pfizer interventional studies for prevention of COVID 19, which are prohibited throughout study participation.
+* Previous participation in other studies involving study intervention containing lipid nanoparticles.
+* Phase 1 only: Positive serological test for SARS-CoV-2 IgM and/or IgG antibodies at the screening visit.
+* Phase 1 only: Any screening hematology and/or blood chemistry laboratory value that meets the definition of a ≥ Grade 1 abnormality.
+* Phase 1 only: Positive test for HIV, hepatitis B surface antigen (HBsAg), hepatitis B core antibodies (HBc Abs), or hepatitis C virus antibodies (HCV Abs) at the screening visit.
+* Phase 1 only: SARS-CoV-2 NAAT-positive nasal swab within 24 hours before receipt of study intervention.
+* Investigator site staff or Pfizer employees directly involved in the conduct of the study, site staff otherwise supervised by the investigator, and their respective family members.
+
+--- DEMOGRAPHIC STRICTNESS ---
+Sex: ALL
+Min Age: 12 Years
+Max Age: N/A

@@ -1,0 +1,12 @@
+TRIAL: Wegovy Semaglutide STEP-1 (NCT03548935)
+DOCUMENT: Schedule of Assessments (SoA)
+
+CLINICAL CALENDAR & LOGISTICAL BURDEN:
+1. Screening Visit (Week -2): 3-hour in-person clinic visit. Full blood panel, ECG, behavioral counseling baseline.
+2. Randomization (Week 0): 2-hour in-person clinic visit. Dispensation of the injection pens. First subcutaneous injection performed in clinic.
+3. Drug Administration (Weekly): Patient must self-administer a subcutaneous injection of trial drug or placebo once every 7 days at home.
+4. Dose Escalation Visits (Weeks 4, 8, 12, 16): 1-hour in-person clinic visits matching the dose escalation schedule (0.25mg -> 0.5mg -> 1.0mg -> 1.7mg -> 2.4mg). Vitals, weight check, and GI symptom survey.
+5. Maintenance Visits (Weeks 20, 28, 36, 44, 52, 60, 68): 1-hour in-person clinic visits every 8 weeks during the maintenance phase.
+6. Behavioral Counseling (Monthly): Mandatory 30-minute structured dietary and lifestyle counseling sessions, often overlapping with clinic visits.
+
+Logistical Severity: MODERATE TO HIGH. The requirement for physically driving to the clinical site every 4 weeks initially, combined with weekly needles at home, presents a compounding scheduling burden for low-income or poor-transit demographic groups.

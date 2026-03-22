@@ -1,0 +1,40 @@
+TRIAL NAME: Wegovy Semaglutide STEP1
+NCT ID: NCT03548935
+CONDITIONS: Metabolism and Nutrition Disorder, Overweight or Obesity
+
+--- BRIEF SUMMARY ---
+This study will look at the change in participants' body weight from the start to the end of the study. The weight loss in participants taking semaglutide (a new medicine) will be compared to the weight loss of participants taking "dummy" medicine. In addition to taking the medicine, participants will have talks with study staff about healthy food choices, how to be more physically active and what you can do to lose weight. Participants will either get semaglutide or "dummy" medicine - which treatment participants get, is decided by chance. Participants will need to take 1 injection once a week. The study medicine is injected with a thin needle in a skin fold in the stomach, thigh or upper arm. The study has two phases: A main phase and an extension phase.The main phase will last for about 1.5 years. Participants will have 15 clinic visits and 10 phone calls with the study doctor. Extension phase: Approximately 300 participants will continue in the extension phase in the following countries only: Canada, Germany, the UK and selected sites in the US and Japan. These participants will be in the study for about 2.5 years.They will not receive treatment, but will attend another 5 follow-up visits with the study doctor.
+
+--- DETAILED DESCRIPTION ---
+
+
+--- ELIGIBILITY CRITERIA ---
+Inclusion Criteria:
+
+Main phase:
+
+* Male or female, age greater than or equal to 18 years at the time of signing informed consent
+* Body mass index (BMI) greater than or equal to 30.0 kg/sqm or greater than or equal to 27.0 kg/sqm with the presence of at least one of the following weight-related comorbidities (treated or untreated): hypertension, dyslipidaemia, obstructive sleep apnoea or cardiovascular disease
+* History of at least one self-reported unsuccessful dietary effort to lose body weight
+
+Extension phase:
+
+* Informed consent for the extension phase obtained before any trial related activities for the extension phase
+* On randomised treatment on the target dose at week 68, i.e. treated with 2.4 mg semaglutide once-weekly or semaglutide placebo
+
+Exclusion Criteria:
+
+Main phase:
+
+* Glycated haemoglobin (HbA1C) greater than or equal to 48 mmol/mol (6.5%) as measured by the central laboratory at screening
+* A self-reported change in body weight greater than 5 kg (11 lbs) within 90 days before screening irrespective of medical records
+
+Extension phase:
+
+* Female who is pregnant or intends to become pregnant during the extension phase
+* Any disorder, unwillingness or inability, not covered by any of the other exclusion criteria, which in the investigator's opinion, might jeopardise the subject's compliance with the extension of the trial
+
+--- DEMOGRAPHIC STRICTNESS ---
+Sex: ALL
+Min Age: 18 Years
+Max Age: N/A

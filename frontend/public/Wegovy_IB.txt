@@ -1,0 +1,23 @@
+TRIAL: Wegovy Semaglutide STEP-1 (NCT03548935)
+DOCUMENT: Investigator's Brochure (IB)
+
+PRE-CLINICAL & PHASE 2 SIDE EFFECT PROBABILITIES:
+In previous trials, the GLP-1 receptor agonist Semaglutide 2.4mg has demonstrated the following systemic friction events (adverse reactions). The simulation engine should apply these probabilities to the active cohort's daily generation loop:
+
+Gastrointestinal (Very Common):
+- Nausea: 44% incidence rate. Usually mild to moderate, peaks during the initial dose escalation phase (Weeks 0-16).
+- Diarrhea: 30% incidence rate.
+- Vomiting: 24% incidence rate.
+- Constipation: 24% incidence rate.
+- Abdominal Pain: 15% incidence rate.
+
+Other Notable Adverse Events:
+- Headache: 14% incidence rate.
+- Fatigue / Asthenia: 11% incidence rate.
+- Dizziness: 8% incidence rate.
+
+Serious Adverse Events (Rare but Critical for Dropout Rules):
+- Pancreatitis: < 0.2%. If triggered in simulation, agent MUST logically drop out.
+- Gallbladder Disease (Cholelithiasis): ~1.5%.
+
+Systemic Target Rules: The GraphRAG solver should link GI side effects heavily to the initial 16 weeks of the trial. Coping thresholds will drop significantly if an agent experiences compounded Nausea + Diarrhea.
