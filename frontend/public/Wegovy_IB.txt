@@ -1,23 +1,22 @@
 TRIAL: Wegovy Semaglutide STEP-1 (NCT03548935)
 DOCUMENT: Investigator's Brochure (IB)
 
-PRE-CLINICAL & PHASE 2 SIDE EFFECT PROBABILITIES:
-In previous trials, the GLP-1 receptor agonist Semaglutide 2.4mg has demonstrated the following systemic friction events (adverse reactions). The simulation engine should apply these probabilities to the active cohort's daily generation loop:
+ADVERSE EVENT INCIDENCE (Phase 3 STEP 1 DATA):
+The following systemic friction events were recorded in the STEP 1 trial (n=1961). The simulation engine should prioritize these probabilities during the Titration Phase (Weeks 0-16).
 
-Gastrointestinal (Very Common):
-- Nausea: 44% incidence rate. Usually mild to moderate, peaks during the initial dose escalation phase (Weeks 0-16).
-- Diarrhea: 30% incidence rate.
-- Vomiting: 24% incidence rate.
-- Constipation: 24% incidence rate.
-- Abdominal Pain: 15% incidence rate.
+GI ADVERSE EVENTS (SEMAGLUTIDE VS PLACEBO):
+- Nausea: 44.2% vs 17.4%
+- Diarrhea: 31.5% vs 15.9%
+- Vomiting: 24.8% vs 6.5%
+- Constipation: 23.4% vs 9.5%
+- Abdominal Pain: 14.5% vs 8.1%
 
-Other Notable Adverse Events:
-- Headache: 14% incidence rate.
-- Fatigue / Asthenia: 11% incidence rate.
-- Dizziness: 8% incidence rate.
+SERIOUS ADVERSE EVENTS:
+- Gallbladder-related disorders: 2.6% vs 1.2%
+- Acute Pancreatitis: 0.2% vs 0.2% (No excess risk vs placebo, but mandatory dropout if occurs).
 
-Serious Adverse Events (Rare but Critical for Dropout Rules):
-- Pancreatitis: < 0.2%. If triggered in simulation, agent MUST logically drop out.
-- Gallbladder Disease (Cholelithiasis): ~1.5%.
+TEMPORAL DYNAMICS:
+GI events are most frequent during dose escalation. Median duration of nausea is 5-8 days. Dropout rate specifically due to AEs in STEP 1 was 7.0% for semaglutide vs 3.1% for placebo.
 
-Systemic Target Rules: The GraphRAG solver should link GI side effects heavily to the initial 16 weeks of the trial. Coping thresholds will drop significantly if an agent experiences compounded Nausea + Diarrhea.
+ATTRITION CALIBRATION:
+Total attrition in STEP 1 was ~15%. The majority of dropouts occurred in the first 20 weeks. Demographic mapping indicates higher sensitivity in patients with history of dyspepsia.

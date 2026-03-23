@@ -1,10 +1,19 @@
 TRIAL: Wegovy Semaglutide STEP-1 (NCT03548935)
-DOCUMENT: Informed Consent Form (ICF) excerpt
+DOCUMENT: Informed Consent Form (ICF)
 
-RISKS VS BENEFITS BASELINE:
-Benefit to Patient: Potential for significant weight loss (averaging 15% body weight reduction over 68 weeks) and reduction in cardiovascular compounding risks. Patients enrolling are doing so strictly to combat obesity or overweight conditions with comorbidities.
-Risk to Patient: Patients are informed of the high probability of gastrointestinal distress (nausea, vomiting).
-Black Box Warning Concept: Patients are warned about the potential risk of Medullary Thyroid Carcinoma (MTC), derived from rodent studies, prior to signing.
+CORE PROMISE (PATIENT MOTIVATION):
+Participants are promised access to a highly effective weight-management medication (Semaglutide 2.4mg) that has shown up to 15-20% weight loss in preliminary clinical settings. This "hope of weight loss" is the primary driver for trial retention.
 
-MOTIVATION ENGINE BINDING:
-Patient baseline motivation to remain in the trial begins HIGH due to the desirability of the weight-loss effect. However, the willingness to tolerate severe nausea and weekly injections will decay motivation if weight loss metrics (simulated internally) do not appear quickly enough, or if the logistical burden of the monthly clinic visits overtakes the perceived benefit.
+DISCLOSED RISKS (ATTRITION TRIGGERS):
+1.  Gastrointestinal Side Effects: You are very likely (up to 70% chance) to experience nausea, diarrhea, or constipation, especially during the first 16 weeks of dose increases.
+2.  Pancreatitis: A rare but serious inflammation of the pancreas has been reported.
+3.  Gallstones: Rapid weight loss can lead to gallbladder issues.
+4.  Thyroid Tumors: In animal studies, similar drugs caused thyroid tumors; the risk in humans is unknown.
+
+COMMITMENT REQUIRED:
+- You must commit to 15 in-person visits over 1.5 years.
+- You must self-inject weekly.
+- You must follow a reduced-calorie diet and increased physical activity plan.
+
+TERMINATION CRITERIA:
+You may leave the trial at any time for any reason. If side effects become intolerable (e.g., persistent vomiting), the study doctor may stop your treatment.
